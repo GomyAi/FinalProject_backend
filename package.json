@@ -1,0 +1,23 @@
+{
+  "name": "FinalProject_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yesicagm/FinalProject_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yesicagm/FinalProject_backend/issues"
+  },
+  "homepage": "https://github.com/Yesicagm/FinalProject_backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
