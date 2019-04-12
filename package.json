@@ -1,5 +1,5 @@
 {
-  "name": "FinalProject_backend",
+  "name": "api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Yesicagm/FinalProject_backend#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "jest": "^24.7.1",
+    "mongoose": "^5.5.0"
   }
 }
