@@ -8,8 +8,7 @@ let userSchema = new Schema({
     password: {type:String, required: true, max:10},
     phone: {type: String, required: true, max:10},
     statusActive: {type: String, lowercase: true, required: true, max:100},
-x
 });
 
 // Export the model
-module.exports = mongoose.model('User', userSchema);
+module.exports = userSchema;
